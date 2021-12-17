@@ -73,7 +73,7 @@ Currently Pursuing **Master of Technology in Artificial Intelligence and Machine
 
 -[LinkedIn](https://www.linkedin.com/in/ishita-bardhan-a90369169/)
 
--Email: ishitabardhan10@gmail.com
+-Email: _ishitabardhan10@gmail.com_
 
 
 
