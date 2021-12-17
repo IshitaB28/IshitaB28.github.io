@@ -7,20 +7,31 @@ Currently Pursuing **Master of Technology in Artificial Intelligence and Machine
 ### Experience/Projects
 
 1. Vehicular Communications
+
    Advisor: Dr. Abhinav Kumar
+   
    (Aug'21 - Present)
 2. Empirical Software Engineering
+
    Advisors: Dr. Subhajit Datta, Dr. Subhashis Majumder
+   
    (Aug'21 - Present)
 3. Degree Doesn't Matter: Identifying the Drivers of Interaction in Software Development Ecosystems
+
    B.Tech Thesis
+   
    Advisors: Dr. Subhajit Datta, Dr. Subhashis Majumder
+   
    (Aug'20 - Aug'21)
 3. Defence Mechanisms for Adversarial Attacks in Neural Networks 
-   Research Internship at New Jersey Institute of Technology.
+4. 
+   Research Internship at New Jersey Institute of Technology
+   
    (Jun'19 - Aug'19)
 4. Recommendation Systems
+
    Research Internship at Dot Linker Technologies Pvt. Ltd.
+   
    (Jan'20 - Mar'20)
 
 ### Publications
@@ -38,9 +49,12 @@ Currently Pursuing **Master of Technology in Artificial Intelligence and Machine
 ### Education
 
 1. M.Tech in Artificial Intelligence and Machine Learning
+
    Indian Institute of Technology, Hyderabad
+   
    (Ongoing)
 2. B.Tech in Computer Science and Engineering
+
    Heritage Institute of Technology, Kolkata
    
 ### Hey, I also
