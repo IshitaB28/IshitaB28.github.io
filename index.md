@@ -29,6 +29,7 @@ Currently Pursuing Master of Technology in Artificial Intelligence and Machine L
    Ishita Bardhan, Subhajit Datta, Subhashis Majumder
    December 2021, The Asia Pacific Software Engineering Conference
    [Link to the paper](https://www.researchgate.net/publication/355032225_Degree_doesn't_Matter_Identifying_the_Drivers_of_Interaction_in_Software_Development_Ecosystems)
+   
    [Link to the Conference presentation](https://www.youtube.com/watch?v=NbDpLYdWueU)
 
 ### Education
