@@ -1,30 +1,59 @@
 ## Hi, this is Ishita. Glad to see you here!
 
-You can use the [editor on GitHub](https://github.com/IshitaB28/IshitaB28.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Currently Pursuing Master of Technology in Artificial Intelligence and Machine Learning at Indian Instittute of Technology, Hyderabad.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Experience/Projects
 
-### Markdown
+1. Vehicular Communications
+   Advisor: Dr. Abhinav Kumar
+   (Aug'21 - Present)
+2. Empirical Software Engineering
+   Advisors: Dr. Subhajit Datta, Dr. Subhashis Majumder
+   (Aug'21 - Present)
+3. Degree Doesn't Matter: Identifying the Drivers of Interaction in Software Development Ecosystems
+   B.Tech Thesis
+   Advisors: Dr. Subhajit Datta, Dr. Subhashis Majumder
+   (Aug'20 - Aug'21)
+3. Defence Mechanisms for Adversarial Attacks in Neural Networks 
+   Research Internship at New Jersey Institute of Technology.
+   (Jun'19 - Aug'19)
+4. Recommendation Systems
+   Research Internship at Dot Linker Technologies Pvt. Ltd.
+   (Jan'20 - Mar'20)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Publications
 
-```markdown
-Syntax highlighted code block
+1. Degree Doesn't Matter: Identifying the Drivers of Interaction in Software Development Ecosystems
+   Ishita Bardhan, Subhajit Datta, Subhashis Majumder
+   December 2021, The Asia Pacific Software Engineering Conference
+   Link to the paper:
+   Link to the Conference presentation
 
-# Header 1
-## Header 2
-### Header 3
+### Education
 
-- Bulleted
-- List
+1. M.Tech in Artificial Intelligence and Machine Learning
+   Indian Institute of Technology, Hyderabad
+   (Ongoing)
+2. B.Tech in Computer Science and Engineering
+   Heritage Institute of Technology, Kolkata
+   
+### Hey, I also
 
-1. Numbered
-2. List
+- Love playing the Flute
+- Enjoy solving Sudokus
+- Play Badminton
+- Read books (Ah yes, stories as well :) )
+
+### Get in touch with me via
+
+-LinkedIn: 
+-Emails: ishitabardhan10@gmail.com
+
+
 
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
