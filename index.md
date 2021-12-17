@@ -26,6 +26,7 @@ Currently Pursuing **Master of Technology in Artificial Intelligence and Machine
 ### Publications
 
 1. Degree Doesn't Matter: Identifying the Drivers of Interaction in Software Development Ecosystems
+
    Ishita Bardhan, Subhajit Datta, Subhashis Majumder
    December 2021, The Asia Pacific Software Engineering Conference
    
