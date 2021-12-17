@@ -44,10 +44,16 @@ Currently Pursuing Master of Technology in Artificial Intelligence and Machine L
 - Play Badminton
 - Read books (Ah yes, stories as well :) )
 
+### I've enjoyed
+
+- Performing as a flautist in my College events
+- 
+
 ### Get in touch with me via
 
 -LinkedIn: 
--Emails: ishitabardhan10@gmail.com
+
+-Email: ishitabardhan10@gmail.com
 
 
 
