@@ -2,6 +2,8 @@
 
 Currently Pursuing Master of Technology in Artificial Intelligence and Machine Learning at Indian Instittute of Technology, Hyderabad.
 
+![Image](\me.jpg)
+
 ### Experience/Projects
 
 1. Vehicular Communications
