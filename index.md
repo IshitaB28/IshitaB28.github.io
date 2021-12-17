@@ -24,7 +24,7 @@ Currently Pursuing **Master of Technology in Artificial Intelligence and Machine
    
    (Aug'20 - Aug'21)
 3. Defence Mechanisms for Adversarial Attacks in Neural Networks 
-4. 
+
    Research Internship at New Jersey Institute of Technology
    
    (Jun'19 - Aug'19)
