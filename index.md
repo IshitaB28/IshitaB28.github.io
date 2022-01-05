@@ -67,26 +67,10 @@ Currently Pursuing **Master of Technology in Artificial Intelligence and Machine
 ### I've enjoyed
 
 - Performing as a flautist in my College events
-- 
+- Serving as a prefect in high school
 
 ### Get in touch with me via
 
 -[LinkedIn](https://www.linkedin.com/in/ishita-bardhan-a90369169/)
 
 -Email: _ishitabardhan10@gmail.com_
-
-
-
-**Bold** and _Italic_ and `Code` text
-
-
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/IshitaB28/IshitaB28.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
