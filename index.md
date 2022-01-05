@@ -67,7 +67,7 @@ Currently Pursuing **Master of Technology in Artificial Intelligence and Machine
 ### I've enjoyed
 
 - Performing as a flautist in my College events
-- Serving as a prefect in high school
+- Serving as a prefect in my high school
 
 ### Get in touch with me via
 
