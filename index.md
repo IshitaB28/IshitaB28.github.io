@@ -33,6 +33,12 @@ Currently Pursuing **Master of Technology in Artificial Intelligence and Machine
    Research Internship at Dot Linker Technologies Pvt. Ltd.
    
    (Jan'20 - Mar'20)
+6. Predicting Quality of user experience in Voice Assistants
+
+   Advisor: Dr. Abhinav Kumar
+   
+   (Feb'22 - present)
+7. Vision Transformers
 
 ### Publications
 
