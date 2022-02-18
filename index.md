@@ -6,7 +6,14 @@ Currently Pursuing **Master of Technology in Artificial Intelligence and Machine
 
 ### Experience/Projects
 
-1. Vehicular Communications
+1.  Predicting the Quality of User Experience in Voice Assistants
+      
+    Advisor: Dr. Abhinav Kumar
+    
+    (Feb'22 - present)
+2.  Vision Transformers
+
+3.  Vehicular Communications
 
    Advisor: Dr. Abhinav Kumar
    
