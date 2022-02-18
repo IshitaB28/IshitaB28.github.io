@@ -15,9 +15,9 @@ Currently Pursuing **Master of Technology in Artificial Intelligence and Machine
 
 3.  Vehicular Communications
 
-   Advisor: Dr. Abhinav Kumar
+    Advisor: Dr. Abhinav Kumar
    
-   (Aug'21 - Present)
+    (Aug'21 - Present)
 4. Empirical Software Engineering
 
    Advisors: Dr. Subhajit Datta, Dr. Subhashis Majumder
