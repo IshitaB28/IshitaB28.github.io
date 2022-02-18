@@ -18,24 +18,24 @@ Currently Pursuing **Master of Technology in Artificial Intelligence and Machine
    Advisor: Dr. Abhinav Kumar
    
    (Aug'21 - Present)
-2. Empirical Software Engineering
+4. Empirical Software Engineering
 
    Advisors: Dr. Subhajit Datta, Dr. Subhashis Majumder
    
    (Aug'21 - Present)
-3. Degree Doesn't Matter: Identifying the Drivers of Interaction in Software Development Ecosystems
+5. Degree Doesn't Matter: Identifying the Drivers of Interaction in Software Development Ecosystems
 
    B.Tech Thesis
    
    Advisors: Dr. Subhajit Datta, Dr. Subhashis Majumder
    
    (Aug'20 - Aug'21)
-3. Defence Mechanisms for Adversarial Attacks in Neural Networks 
+6. Defence Mechanisms for Adversarial Attacks in Neural Networks 
 
    Research Internship at New Jersey Institute of Technology
    
    (Jun'19 - Aug'19)
-4. Recommendation Systems
+7. Recommendation Systems
 
    Research Internship at Dot Linker Technologies Pvt. Ltd.
    
