@@ -6,36 +6,29 @@ Currently Pursuing **Master of Technology in Artificial Intelligence and Machine
 
 ### Experience/Projects
 
-1. Predicting the Quality of User Experience in Voice Assistants
-      
-    Advisor: Dr. Abhinav Kumar
-    
-    (Feb'22 - present)
-2.  Vision Transformers
-
-3.  Vehicular Communications
+1.  Vehicular Communications
 
     Advisor: Dr. Abhinav Kumar
    
     (Aug'21 - Present)
-4. Empirical Software Engineering
+2. Empirical Software Engineering
 
    Advisors: Dr. Subhajit Datta, Dr. Subhashis Majumder
    
    (Aug'21 - Present)
-5. Degree Doesn't Matter: Identifying the Drivers of Interaction in Software Development Ecosystems
+3. Degree Doesn't Matter: Identifying the Drivers of Interaction in Software Development Ecosystems
 
    B.Tech Thesis
    
    Advisors: Dr. Subhajit Datta, Dr. Subhashis Majumder
    
    (Aug'20 - Aug'21)
-6. Defence Mechanisms for Adversarial Attacks in Neural Networks 
+4. Defence Mechanisms for Adversarial Attacks in Neural Networks 
 
    Research Internship at New Jersey Institute of Technology
    
    (Jun'19 - Aug'19)
-7. Recommendation Systems
+5. Recommendation Systems
 
    Research Internship at Dot Linker Technologies Pvt. Ltd.
    
