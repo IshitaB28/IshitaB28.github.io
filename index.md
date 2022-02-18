@@ -6,7 +6,7 @@ Currently Pursuing **Master of Technology in Artificial Intelligence and Machine
 
 ### Experience/Projects
 
-1.  Predicting the Quality of User Experience in Voice Assistants
+1. Predicting the Quality of User Experience in Voice Assistants
       
     Advisor: Dr. Abhinav Kumar
     
