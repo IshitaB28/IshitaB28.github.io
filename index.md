@@ -4,7 +4,7 @@ Currently Pursuing **Master of Technology in Artificial Intelligence and Machine
 
 ## ![Image](\me.jpg)
 
-### Internshipa
+### Internships
 1. **Artificial Intelligence Engineer Intern** at **Bajaj Auto Ltdt**
    
    Welding Defect Detection System using Machine Learning
