@@ -4,7 +4,26 @@ Currently Pursuing **Master of Technology in Artificial Intelligence and Machine
 
 ## ![Image](\me.jpg)
 
-### Experience/Projects
+### Internshipa
+1. **Artificial Intelligence Engineer Intern** at **Bajaj Auto Ltdt**
+   
+   Welding Defect Detection System using Machine Learning
+   
+   (May'22 - Present)
+   
+3. **Research Intern** at **DotLinker Technologies Pvt Ltd**
+    
+    Recommendation Systems
+    
+    (Jan'20 - Mar'20)
+    
+4. **Research Intern** at **New Jersey Institute of Technology**
+   
+   Defence Mechanisms for Adversarial Attacks on Neural Networks
+   
+   (Jun'19 - Aug'19)
+
+### Academic Projects
 
 1. Predicting Quality of user experience in Voice Assistants
 
@@ -31,16 +50,7 @@ Currently Pursuing **Master of Technology in Artificial Intelligence and Machine
    Advisors: Dr. Subhajit Datta, Dr. Subhashis Majumder
    
    (Aug'20 - Aug'21)
-6. Defence Mechanisms for Adversarial Attacks in Neural Networks 
 
-   Research Internship at New Jersey Institute of Technology
-   
-   (Jun'19 - Aug'19)
-7. Recommendation Systems
-
-   Research Internship at Dot Linker Technologies Pvt. Ltd.
-   
-   (Jan'20 - Mar'20)
 
 ### Publications
 
@@ -50,7 +60,7 @@ Currently Pursuing **Master of Technology in Artificial Intelligence and Machine
    
    December 2021, The Asia Pacific Software Engineering Conference
    
-   [Link to the paper](https://www.researchgate.net/publication/355032225_Degree_doesn't_Matter_Identifying_the_Drivers_of_Interaction_in_Software_Development_Ecosystems)
+   [Link to the paper](https://ieeexplore.ieee.org/document/9711990/)
    
    [Link to the Conference presentation](https://www.youtube.com/watch?v=NbDpLYdWueU)
 
@@ -70,6 +80,8 @@ Currently Pursuing **Master of Technology in Artificial Intelligence and Machine
 - Love playing the Flute
 - Enjoy solving Sudokus
 - Play Badminton
+- Play Chess
+- Try and learn new languages
 - Read books (Ah yes, stories as well :) )
 
 ### I've enjoyed
@@ -82,3 +94,5 @@ Currently Pursuing **Master of Technology in Artificial Intelligence and Machine
 -[LinkedIn](https://www.linkedin.com/in/ishita-bardhan-a90369169/)
 
 -Email: _ishitabardhan10@gmail.com_
+
+-Goodreads: coming up :)
