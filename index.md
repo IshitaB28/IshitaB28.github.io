@@ -32,7 +32,7 @@ Currently Pursuing **Master of Technology in Artificial Intelligence and Machine
    (Feb'22 - present)
 2. Vision Transformers
 
-   (Jan'22 - present)
+   (2022)
 3. Vehicular Communications
 
    Advisor: Dr. Abhinav Kumar
