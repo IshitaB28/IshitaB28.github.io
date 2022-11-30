@@ -9,7 +9,7 @@ Currently Pursuing **Master of Technology in Artificial Intelligence and Machine
    
    Welding Defect Detection System using Machine Learning
    
-   (May'22 - Present)
+   (May'22 - Jul'22)
    
 3. **Research Intern** at **DotLinker Technologies Pvt Ltd**
     
