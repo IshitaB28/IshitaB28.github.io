@@ -5,7 +5,15 @@ Currently Pursuing **Master of Technology in Artificial Intelligence and Machine
 ## ![Image](\me.jpg)
 
 ### Internships
-1. **Artificial Intelligence Engineer Intern** at **Bajaj Auto Ltd**
+1. **Computer Vision Research Intern** at **Nanyang Technological University, Singapore**
+   
+   Visual Simultaneous Localization and Mapping
+   
+   Advisor: Associate Professor Lam Siew Kei
+   
+   (Jan'23 - Present)
+   
+2. **Artificial Intelligence Engineer Intern** at **Bajaj Auto Ltd**
    
    Welding Defect Detection System using Machine Learning
    
