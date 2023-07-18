@@ -4,6 +4,15 @@ Currently Pursuing **Master of Technology in Artificial Intelligence and Machine
 
 ## ![Image](\me.jpg)
 
+### Fellowships Received
+1. **Australia India Research Students Fellowship 2023**
+   
+   https://arch-india.org/australia-india-research-students-fellowship-program
+   
+2. **India Connect Research Fellowship 2023**
+   
+   https://www.ntu.edu.sg/about-us/global/india-connect-ntu
+
 ### Internships
 1. **Computer Vision Research Intern** at **Nanyang Technological University, Singapore**
    
@@ -11,7 +20,7 @@ Currently Pursuing **Master of Technology in Artificial Intelligence and Machine
    
    Advisor: Associate Professor Lam Siew Kei
    
-   (Jan'23 - Present)
+   (Jan'23 - June'23)
    
 2. **Artificial Intelligence Engineer Intern** at **Bajaj Auto Ltd**
    
