@@ -1,2 +1,5 @@
 theme: jekyll-theme-minimal
 title: Ishita's homepage
+layout: page
+title: "Flute Videos"
+permalink: /flute
