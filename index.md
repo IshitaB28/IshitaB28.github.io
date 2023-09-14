@@ -9,7 +9,7 @@ Currently Pursuing **Master of Technology in Artificial Intelligence and Machine
    
    [AIRS website](https://arch-india.org/australia-india-research-students-fellowship-program)
    
-2. **India Connect Research Fellowship 2023**
+2. **India Connect @ NTU Research Fellowship 2023**
    
    [India Connect Website](https://www.ntu.edu.sg/about-us/global/india-connect-ntu)
 
