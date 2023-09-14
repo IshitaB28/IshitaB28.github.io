@@ -2,7 +2,7 @@
 
 Currently Pursuing **Master of Technology in Artificial Intelligence and Machine Learning** at Indian Institute of Technology, Hyderabad.
 
-## ![Image](\me.jpg)
+## ![Image](\me_resized.jpg)
 
 ### Fellowships Received
 1. **Australia India Research Students Fellowship 2023**
