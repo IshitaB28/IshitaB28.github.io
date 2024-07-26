@@ -4,7 +4,7 @@ title: Home
 ---
 
 <h1>Welcome to My Website</h1>
-<img src="/images/me.jpg" alt="About Image">
+<img src="/images/site_me.jpg" alt="About Image">
 <p>This is the home page. Here you can introduce yourself or provide some background information.</p>
 
 
