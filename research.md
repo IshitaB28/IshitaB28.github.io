@@ -8,26 +8,23 @@ My Google Scholar Profile is [here](https://scholar.google.com/citations?hl=en&u
 
 <h2>Publications:</h2>
 
-Are Standard CNNs Good Enough for No-Reference Stereoscopic Image Quality Assessment?
+1. Are Standard CNNs Good Enough for No-Reference Stereoscopic Image Quality Assessment?
 Ishita Bardhan, Sumohana S. Channappayya, Abhik Banerjee, Abdur Rahim Mohammad Forkan, Prem Prakash Jayaraman and Abhinav Kumar
-[Accepted] International Conference on Signal Processing and Communications (SPCOM) 2024
+<u>[Accepted]</u> International Conference on Signal Processing and Communications (SPCOM) 2024
 
-
-
-No-Reference Stereoscopic and Omnidirectional Image Quality Assessment
+2. No-Reference Stereoscopic and Omnidirectional Image Quality Assessment
 Ishita Bardhan, Sumohana S. Channappayya, Abhinav Kumar
-[Submitted] (Submission and conference names are currently withheld to maintain anonymity)
+<u>[Submitted]</u> (Submission and conference names are currently withheld to maintain anonymity)
 
-
-What Drives the Variation of Developer Communication Characteristics over Time? An Empirical Study across Multiple Datasets
+3. What Drives the Variation of Developer Communication Characteristics over Time? An Empirical Study across Multiple Datasets
 Suchandra Chakraborty, Ankan Basu, Aritra Saha, Ishita Bardhan, Subhajit Datta, Subhashis Majumder
-[Submitted]  International Conference on Frontiers in Computing and Systems COMSYS-2024
+<u>[Submitted]</u> International Conference on Frontiers in Computing and Systems COMSYS-2024
 
-
-Degree Doesn't Matter: Identifying the Drivers of Interaction in Software Development Ecosystems
+4. Degree Doesn't Matter: Identifying the Drivers of Interaction in Software Development Ecosystems
 Ishita Bardhan, Subhajit Datta, Subhashis Majumder
 December 2021, The Asia Pacific Software Engineering Conference
-[Paper, Presentation]
+[Paper](https://ieeexplore.ieee.org/document/9711990)
+[Presentation](https://www.youtube.com/watch?v=NbDpLYdWueU)
 
 <h2>Fellowships/Awards/Grants received:</h2>
 
