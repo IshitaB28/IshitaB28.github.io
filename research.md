@@ -10,15 +10,15 @@ My Google Scholar Profile is [here](https://scholar.google.com/citations?hl=en&u
 
 1. Are Standard CNNs Good Enough for No-Reference Stereoscopic Image Quality Assessment?<br>
 Ishita Bardhan, Sumohana S. Channappayya, Abhik Banerjee, Abdur Rahim Mohammad Forkan, Prem Prakash Jayaraman and Abhinav Kumar<br>
-<u>[Accepted]</u> International Conference on Signal Processing and Communications (SPCOM) 2024
+<b><u>[Accepted]</u></b> International Conference on Signal Processing and Communications (SPCOM) 2024
 
 2. No-Reference Stereoscopic and Omnidirectional Image Quality Assessment<br>
 Ishita Bardhan, Sumohana S. Channappayya, Abhinav Kumar<br>
-<u>[Submitted]</u> (Submission and conference names are currently withheld to maintain anonymity)
+<b><u>[Submitted]</u></b> (Submission and conference names are currently withheld to maintain anonymity)
 
 3. What Drives the Variation of Developer Communication Characteristics over Time? An Empirical Study across Multiple Datasets<br>
 Suchandra Chakraborty, Ankan Basu, Aritra Saha, Ishita Bardhan, Subhajit Datta, Subhashis Majumder<br>
-<u>[Submitted]</u> International Conference on Frontiers in Computing and Systems COMSYS-2024
+<b><u>[Submitted]</u></b> International Conference on Frontiers in Computing and Systems COMSYS-2024
 
 4. Degree Doesn't Matter: Identifying the Drivers of Interaction in Software Development Ecosystems<br>
 Ishita Bardhan, Subhajit Datta, Subhashis Majumder<br>
