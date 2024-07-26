@@ -15,6 +15,6 @@ Research Interests:
 
 Computer Vision, Quality Assessment of Images and Videos, Deep learning.
 
-Find my CV here.
+Find my CV <a href="{https://drive.google.com/file/d/1ApN2TsZROJ7JegmmG7k6k13SlEGYfwc6/view}">here</a>.
 
 Check out more details here.
