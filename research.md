@@ -2,6 +2,9 @@
 layout: default
 title: Research
 ---
+<h1>Ishita Bardhan</h1>
+<h2>[Home](index.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Research](research.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Beyond Academics](beyond_acad.md)</h2>
+<br>
 
 <h1>Research</h1>
 My Google Scholar Profile is [here](https://scholar.google.com/citations?hl=en&user=oxrgT9YAAAAJ).
