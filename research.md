@@ -3,7 +3,7 @@ layout: default
 title: Research
 ---
 <h1>Ishita Bardhan</h1>
-<h2>[Home](index.md)  [Research](research.md)   [Beyond Academics](beyond_acad.md)</h2>
+<a href="{{ "/index" | absolute_url }}">Home</a>  <a href="{{ "/research" | absolute_url }}">Research Page</a>  <a href="{{ "/beyond_acad" | absolute_url }}">Beyond Academics</a>
 <br>
 
 <h1>Research</h1>
