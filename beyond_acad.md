@@ -6,13 +6,22 @@ I absolutely love playing the Flute. Find some videos here (click on the images 
 (open to criticism :) )
 
 [![Rendition: <i>Culmination of pieces composed by Satyajit Ray</i>](/videos/ray.png)](https://drive.google.com/file/d/1avKk2v_vQ50_hg5a5NHxJHhhsgD4EDHn/view)
-Rendition: <i>Culmination of pieces composed by Satyajit Ray</i>
+<br>Rendition: <i>Culmination of pieces composed by Satyajit Ray</i>
 
 [![Renditition: Raaga Hamswadhwani (includes parts of a song taken from webseries Tansener Tanpura)](/videos/hamsadhwani.png)](https://drive.google.com/file/d/1-JTvduLzlbcNpYBAtDRHQFnFXkzpS_em/view)
-Renditition: Raaga Hamswadhwani (includes parts of a song taken from webseries Tansener Tanpura)
+<br>Renditition: Raaga Hamswadhwani (includes parts of a song taken from webseries Tansener Tanpura)
 
 [![Rendition: Vande Mataram song (w Raaga Desh)](/videos/vande_mataram.png)](https://drive.google.com/file/d/1HAEL_829KdnRQsKtHNkmddsGnOOumewH/view)
-Rendition: Vande Mataram song (w Raaga Desh)
+<br>Rendition: Vande Mataram song (w Raaga Desh)
 
 
 I enjoy solving Sudokus a lot. I also like (and try) playing Badminton and Chess!
+
+
+I also take keen interest in learning languages. I practice French and Japanese on Duolingo! Check out my Duolingo profile [here](https://www.duolingo.com/profile/IshitaB28?via=share_profile_link).
+
+
+I find delight in reading books too! I sometimes also leave reviews on goodreads. Check reviews and "currently reading" [here](https://www.goodreads.com/user/show/93097846-ishita-bardhan).<br>
+Favourite genre: Thrillers/ Mystery/ Adventure.
+
+Once in a blue moon I take good pictures, I think! Check them out below.
