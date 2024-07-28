@@ -4,7 +4,7 @@ title: Home
 ---
 
 <h1>Ishita Bardhan</h1>
-<img src="/images/site_me.jpg" alt="About Image">
+<img src="/images/site_me_resize.jpg" alt="About Image">
 
 ## Main Pages
 
