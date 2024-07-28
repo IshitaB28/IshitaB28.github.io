@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal
+theme: minimal@v0.2.0
 title: Ishita's homepage
 markdown: kramdown
 kramdown:
