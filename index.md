@@ -4,7 +4,7 @@ title: Home
 ---
 
 <h1>Ishita Bardhan</h1>
-<h2>[Home](index.md)  [Research](research.md)  [Beyond Academics](beyond_acad.md)</h2>
+[Home](index.md)  [Research](research.md)  [Beyond Academics](beyond_acad.md)
 <br>
 
 <img src="/images/site_me_resize.jpg" alt="About Image">
