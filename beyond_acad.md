@@ -3,6 +3,10 @@ layout: default
 title: Beyond Academics
 ---
 
+<h1>Ishita Bardhan</h1>
+<a href="{{ "/index" | absolute_url }}">Home</a>  <a href="{{ "/research" | absolute_url }}">Research Page</a>  <a href="{{ "/beyond_acad" | absolute_url }}">Beyond Academics</a>
+<br>
+
 ## Music:
 I absolutely love playing the Flute. Find some videos here (click on the images to play) if this interests you:
 (open to criticism :) )
