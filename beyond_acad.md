@@ -2,6 +2,8 @@
 layout: default
 title: Beyond Academics
 ---
+
+## Music:
 I absolutely love playing the Flute. Find some videos here (click on the images to play) if this interests you:
 (open to criticism :) )
 
@@ -15,13 +17,17 @@ I absolutely love playing the Flute. Find some videos here (click on the images 
 <br>Rendition: Vande Mataram song (w Raaga Desh)
 
 
+## Games:
 I enjoy solving Sudokus a lot. I also like (and try) playing Badminton and Chess!
 
-
+## Languages:
 I also take keen interest in learning languages. I practice French and Japanese on Duolingo! Check out my Duolingo profile [here](https://www.duolingo.com/profile/IshitaB28?via=share_profile_link).
 
 
+## Books:
 I find delight in reading books too! I sometimes also leave reviews on goodreads. Check reviews and "currently reading" [here](https://www.goodreads.com/user/show/93097846-ishita-bardhan).<br>
 Favourite genre: Thrillers/ Mystery/ Adventure.
 
+
+## Photographs:
 Once in a blue moon I take good pictures, I think! Check them out below.
