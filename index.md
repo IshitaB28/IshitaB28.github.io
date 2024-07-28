@@ -7,10 +7,8 @@ title: Home
 <img src="/images/site_me_resize.jpg" alt="About Image">
 
 ## Pages
-
-- [Home](index.md)
-- [Research](research.md)
-- [Beyond Academics](beyond_acad.md)
+  
+[Home](index.md)             [Research](research.md)            [Beyond Academics](beyond_acad.md)
   
 Hello, this is Ishita. Glad to see you here!
 
