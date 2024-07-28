@@ -1,6 +1,2 @@
-theme: minimal@v0.2.0
+theme: jekyll-theme-minimal
 title: Ishita's homepage
-markdown: kramdown
-kramdown:
-  input: GFM
-include: [styles.css] # Make sure this points to the correct path
