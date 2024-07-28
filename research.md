@@ -52,7 +52,7 @@ Advisor: [Dr. Abhinav Kumar](https://people.iith.ac.in/abhinavkumar/index.html)
 
 
 Vehicular Communications<br>
-Advisors: [Dr. Abhinav Kumar](https://people.iith.ac.in/abhinavkumar/index.html), Dr Kotaro Kataoka
+Advisors: [Dr. Abhinav Kumar](https://people.iith.ac.in/abhinavkumar/index.html), [Dr. Kotaro Kataoka](https://people.iith.ac.in/kotaro/)
 
 
 Empirical Software Engineering<br>
