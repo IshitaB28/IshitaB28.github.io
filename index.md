@@ -9,7 +9,7 @@ title: Home
 ## Hi, this is Ishita. This website has been shifted, Please click [here](https://sites.google.com/view/ishitabardhan/home).
 Hello, this is Ishita. Glad to see you here!
 
-I am a <b>Data Scientist</b> at Netradyne.
+I am a <b>Data Scientist</b> at <b>Netradyne</b>.
 
 Research Interests:
 
