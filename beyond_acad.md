@@ -28,7 +28,7 @@ I absolutely love playing the Flute. Find some videos here (click on the images 
 I enjoy solving Sudokus a lot. I also like (and try) playing Badminton and Chess!
 
 ## Languages:
-I also take keen interest in learning languages. I practice French and Japanese on Duolingo! Check out my Duolingo profile [here](https://www.duolingo.com/profile/IshitaB28?via=share_profile_link). <img src="/images/duo.jpg" alt="Duolingo Profile QR" style="width: 100%; height: auto;">
+I also take keen interest in learning languages. I practice French and Japanese on Duolingo! Check out my Duolingo profile [here](https://www.duolingo.com/profile/IshitaB28?via=share_profile_link). <img src="/images/duo.jpg" alt="Duolingo Profile QR">
 
 
 ## Books:
