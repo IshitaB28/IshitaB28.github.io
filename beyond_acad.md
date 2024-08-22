@@ -43,3 +43,19 @@ Once in a blue moon I take good pictures, I think! Check them out below.
   <img src="/images/koala.jpg" alt="A Koala sleeps for about 20-22 hrs a day!">
   <figcaption>A Koala sleeps for about 20-22 hrs a day!</figcaption>
 </figure>
+<figure>
+  <img src="/images/phillip.jpg" alt="Phillip Island, Australia">
+  <figcaption>Phillip Island, Australia</figcaption>
+</figure>
+<figure>
+  <img src="/images/gorge.jpg" alt="Lord Ard's Gorge, Australia">
+  <figcaption>Lord Ard's Gorge, Australia</figcaption>
+</figure>
+<figure>
+  <img src="/images/kilda.jpg" alt="Sunset at St. Kilda beach, Melbourne">
+  <figcaption>Sunset at St. Kilda beach, Melbourne</figcaption>
+</figure>
+<figure>
+  <img src="/images/sharavati.jpg" alt="Sharavati River, Karnataka, India">
+  <figcaption>Sharavati River, Karnataka, India</figcaption>
+</figure>
