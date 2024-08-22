@@ -45,6 +45,10 @@ Once in a blue moon I take good pictures, I think! Check them out below.
         <figcaption>A Koala sleeps for about 20-22 hrs a day!</figcaption>
     </div>
     <div style="display: flex; flex-direction: column;">
+        <img src="/images/kol.jpg" alt="Not London. :) At Kolkata, India. Can you spot the moon peeping?" style="width: 100%; height: auto;">
+        <figcaption>Not London. :) At Kolkata, India. Can you spot the moon peeping?</figcaption>
+    </div>
+    <div style="display: flex; flex-direction: column;">
         <img src="/images/philip.jpg" alt="Phillip Island, Australia" style="width: 100%; height: auto;">
         <figcaption>Phillip Island, Australia</figcaption>
     </div>
@@ -62,23 +66,3 @@ Once in a blue moon I take good pictures, I think! Check them out below.
     </div>
 </div>
 
-<figure>
-  <img src="/images/koala.jpg" alt="A Koala sleeps for about 20-22 hrs a day!">
-  <figcaption>A Koala sleeps for about 20-22 hrs a day!</figcaption>
-</figure>
-<figure>
-  <img src="/images/philip.jpg" alt="Phillip Island, Australia">
-  <figcaption>Phillip Island, Australia</figcaption>
-</figure>
-<figure>
-  <img src="/images/gorge.jpg" alt="Lord Ard's Gorge, Australia">
-  <figcaption>Lord Ard's Gorge, Australia</figcaption>
-</figure>
-<figure>
-  <img src="/images/kilda.jpg" alt="Sunset at St. Kilda beach, Melbourne">
-  <figcaption>Sunset at St. Kilda beach, Melbourne</figcaption>
-</figure>
-<figure>
-  <img src="/images/sharavati.jpg" alt="Sharavati River, Karnataka, India">
-  <figcaption>Sharavati River, Karnataka, India</figcaption>
-</figure>
