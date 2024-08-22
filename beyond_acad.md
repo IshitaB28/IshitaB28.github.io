@@ -38,3 +38,8 @@ Favourite genre: Thrillers/ Mystery/ Adventure.
 
 ## Photographs:
 Once in a blue moon I take good pictures, I think! Check them out below.
+
+<figure>
+  <img src="/images/koala.jpg" alt="A Koala sleeps for about 20-22 hrs a day!">
+  <figcaption>A Koala sleeps for about 20-22 hrs a day!</figcaption>
+</figure>
