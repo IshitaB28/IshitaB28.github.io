@@ -64,5 +64,25 @@ Once in a blue moon I take good pictures, I think! Check them out below.
         <img src="/images/sharavati.jpg" alt="Sharavati River, Karnataka, India" style="width: 100%; height: auto;">
         <figcaption>Sharavati River, Karnataka, India</figcaption>
     </div>
+    <div style="display: flex; flex-direction: column;">
+        <img src="/images/melcity1.jpg" alt="Melbourne City scape" style="width: 100%; height: auto;">
+        <figcaption>Melbourne City scape</figcaption>
+    </div>
+    <div style="display: flex; flex-direction: column;">
+        <img src="/images/melcity2.jpg" alt="Sharavati River, Karnataka, India" style="width: 100%; height: auto;">
+        <figcaption>Melbourne City scape</figcaption>
+    </div>
+    <div style="display: flex; flex-direction: column;">
+        <img src="/images/dusk.jpg" alt="IIT Hyderabad at dusk" style="width: 100%; height: auto;">
+        <figcaption>IIT Hyderabad at dusk</figcaption>
+    </div>
+    <div style="display: flex; flex-direction: column;">
+        <img src="/images/moon.jpg" alt="A full moon night, IIT Hyderabad, India" style="width: 100%; height: auto;">
+        <figcaption>A full moon night, IIT Hyderabad, India</figcaption>
+    </div>
+    <div style="display: flex; flex-direction: column;">
+        <img src="/images/rainbow.jpg" alt="Spot me, I am a rainbow!" style="width: 100%; height: auto;">
+        <figcaption>Spot me, I am a rainbow!e</figcaption>
+    </div>
 </div>
 
