@@ -6,6 +6,9 @@ title: Home
 <h1>Ishita Bardhan</h1>
 <a href="{{ "/index" | absolute_url }}">Home</a>  <a href="{{ "/research" | absolute_url }}">Research Page</a>  <a href="{{ "/beyond_acad" | absolute_url }}">Beyond Academics</a>
 <br>
+<a href="{{ '/index' | absolute_url }}" style="margin-right: 10px;">Home</a>
+<a href="{{ '/research' | absolute_url }}" style="margin-right: 10px;">Research Page</a>
+<a href="{{ '/beyond_acad' | absolute_url }}">Beyond Academics</a>
 
 <img src="/images/site_me_resize.jpg" alt="About Image">
   
