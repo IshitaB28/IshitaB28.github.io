@@ -44,7 +44,7 @@ Once in a blue moon I take good pictures, I think! Check them out below.
   <figcaption>A Koala sleeps for about 20-22 hrs a day!</figcaption>
 </figure>
 <figure>
-  <img src="/images/phillip.jpg" alt="Phillip Island, Australia">
+  <img src="/images/philip.jpg" alt="Phillip Island, Australia">
   <figcaption>Phillip Island, Australia</figcaption>
 </figure>
 <figure>
