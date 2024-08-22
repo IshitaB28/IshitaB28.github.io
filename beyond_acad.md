@@ -39,30 +39,28 @@ Favourite genre: Thrillers/ Mystery/ Adventure.
 ## Photographs:
 Once in a blue moon I take good pictures, I think! Check them out below.
 
-<body>
-    <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
-        <figure style="margin: 0;">
-            <img src="/images/koala.jpg" alt="A Koala sleeps for about 20-22 hrs a day!" style="width: 100%; height: auto;">
-            <figcaption>A Koala sleeps for about 20-22 hrs a day!</figcaption>
-        </figure>
-        <figure style="margin: 0;">
-            <img src="/images/philip.jpg" alt="Phillip Island, Australia" style="width: 100%; height: auto;">
-            <figcaption>Phillip Island, Australia</figcaption>
-        </figure>
-        <figure style="margin: 0;">
-            <img src="/images/gorge.jpg" alt="Lord Ard's Gorge, Australia" style="width: 100%; height: auto;">
-            <figcaption>Lord Ard's Gorge, Australia</figcaption>
-        </figure>
-        <figure style="margin: 0;">
-            <img src="/images/kilda.jpg" alt="Sunset at St. Kilda beach, Melbourne" style="width: 100%; height: auto;">
-            <figcaption>Sunset at St. Kilda beach, Melbourne</figcaption>
-        </figure>
-        <figure style="margin: 0;">
-            <img src="/images/sharavati.jpg" alt="Sharavati River, Karnataka, India" style="width: 100%; height: auto;">
-            <figcaption>Sharavati River, Karnataka, India</figcaption>
-        </figure>
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
+    <div style="display: flex; flex-direction: column;">
+        <img src="/images/koala.jpg" alt="A Koala sleeps for about 20-22 hrs a day!" style="width: 100%; height: auto;">
+        <figcaption>A Koala sleeps for about 20-22 hrs a day!</figcaption>
     </div>
-</body>
+    <div style="display: flex; flex-direction: column;">
+        <img src="/images/philip.jpg" alt="Phillip Island, Australia" style="width: 100%; height: auto;">
+        <figcaption>Phillip Island, Australia</figcaption>
+    </div>
+    <div style="display: flex; flex-direction: column;">
+        <img src="/images/gorge.jpg" alt="Lord Ard's Gorge, Australia" style="width: 100%; height: auto;">
+        <figcaption>Lord Ard's Gorge, Australia</figcaption>
+    </div>
+    <div style="display: flex; flex-direction: column;">
+        <img src="/images/kilda.jpg" alt="Sunset at St. Kilda beach, Melbourne" style="width: 100%; height: auto;">
+        <figcaption>Sunset at St. Kilda beach, Melbourne</figcaption>
+    </div>
+    <div style="display: flex; flex-direction: column;">
+        <img src="/images/sharavati.jpg" alt="Sharavati River, Karnataka, India" style="width: 100%; height: auto;">
+        <figcaption>Sharavati River, Karnataka, India</figcaption>
+    </div>
+</div>
 
 <figure>
   <img src="/images/koala.jpg" alt="A Koala sleeps for about 20-22 hrs a day!">
