@@ -27,6 +27,7 @@ I absolutely love playing the Flute. Find some videos here (click on the images 
         [![Renditition: Raaga Hamswadhwani (includes parts of a song taken from webseries Tansener Tanpura)](/videos/hamsadhwani.png)](https://drive.google.com/file/d/1-JTvduLzlbcNpYBAtDRHQFnFXkzpS_em/view)
 <br>Renditition: Raaga Hamswadhwani (includes parts of a song taken from webseries Tansener Tanpura)
     </div>
+<\div>
 
 [![Rendition: <i>Culmination of pieces composed by Satyajit Ray</i>](/videos/ray.png)](https://drive.google.com/file/d/1avKk2v_vQ50_hg5a5NHxJHhhsgD4EDHn/view)
 <br>Rendition: <i>Culmination of pieces composed by Satyajit Ray</i>
