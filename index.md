@@ -4,11 +4,12 @@ title: Home
 ---
 
 <h1>Ishita Bardhan</h1>
-<a href="{{ "/index" | absolute_url }}">Home</a>  <a href="{{ "/research" | absolute_url }}">Research Page</a>  <a href="{{ "/beyond_acad" | absolute_url }}">Beyond Academics</a>
+<!-- <a href="{{ "/index" | absolute_url }}">Home</a>  <a href="{{ "/research" | absolute_url }}">Research Page</a>  <a href="{{ "/beyond_acad" | absolute_url }}">Beyond Academics</a> -->
 <br>
-<a href="{{ '/index' | absolute_url }}" style="margin-right: 30px;">Home</a>
-<a href="{{ '/research' | absolute_url }}" style="margin-right: 20px;">Research Page</a>
+<a href="{{ '/index' | absolute_url }}" style="margin-right: 60px;">Home</a>
+<a href="{{ '/research' | absolute_url }}" style="margin-right: 40px;">Research Page</a>
 <a href="{{ '/beyond_acad' | absolute_url }}">Beyond Academics</a>
+<br>
 
 <img src="/images/site_me_resize.jpg" alt="About Image">
   
