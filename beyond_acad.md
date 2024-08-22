@@ -4,7 +4,7 @@ title: Beyond Academics
 ---
 
 <h1>Ishita Bardhan</h1>
-<br>
+
 <a href="{{ '/index' | absolute_url }}" style="margin-right: 30px;">Home</a>
 <a href="{{ '/research' | absolute_url }}" style="margin-right: 30px;">Research Page</a>
 <a href="{{ '/beyond_acad' | absolute_url }}">Beyond Academics</a>
