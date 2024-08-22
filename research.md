@@ -18,9 +18,9 @@ My Google Scholar Profile is [here](https://scholar.google.com/citations?hl=en&u
 Ishita Bardhan, Sumohana S. Channappayya, Abhik Banerjee, Abdur Rahim Mohammad Forkan, Prem Prakash Jayaraman and Abhinav Kumar<br>
 <b><u>[Accepted]</u></b> International Conference on Signal Processing and Communications (SPCOM) 2024
 
-2. Are Distortion Maps the Golden Ticket to No-Reference Stereoscopic and Omnidirectional Image Quality Assessment<br>
+2. Are Distortion Maps the Golden Ticket to No-Reference Stereoscopic and Omnidirectional Image Quality Assessment?<br>
 Ishita Bardhan, Sumohana S. Channappayya, Abhinav Kumar<br>
-<b><u>[Manuscript Submitted]</u></b>
+<b><u>[Manuscript under preparation]</u></b>
 
 3. What Drives the Variation of Developer Communication Characteristics over Time? An Empirical Study across Multiple Datasets<br>
 Suchandra Chakraborty, Ankan Basu, Aritra Saha, Ishita Bardhan, Subhajit Datta, Subhashis Majumder<br>
