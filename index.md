@@ -26,7 +26,7 @@ Check out more details at my <a href="{{ "/research" | absolute_url }}">Research
 Find my CV [here](https://drive.google.com/file/d/1VTU-JjL4AcN9pZ_G7o_OjzG3jtfPBkmj/view?usp=sharing).
 
 
-<h2>Fellowships/Awards/Grants received:</h2>
+<h2>Fellowships/Grants received:</h2>
 
 1. The Australian Alumni Grants Scheme 2024<br>
 [AAGS website](https://chennai.consulate.gov.au/cnai/AAGS.html)
