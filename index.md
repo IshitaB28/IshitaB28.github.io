@@ -21,8 +21,25 @@ Research Interests:
 
 Computer Vision, Quality Assessment of Images and Videos, Deep learning.
 
-Find my CV [here](https://drive.google.com/file/d/1ApN2TsZROJ7JegmmG7k6k13SlEGYfwc6/view).
+Find my CV [here](https://drive.google.com/file/d/1VTU-JjL4AcN9pZ_G7o_OjzG3jtfPBkmj/view?usp=sharing)
+or
+copy paste this link: https://drive.google.com/file/d/1VTU-JjL4AcN9pZ_G7o_OjzG3jtfPBkmj/view?usp=sharing
 
 Check out more details at my <a href="{{ "/research" | absolute_url }}">Research Page</a>.
+
+
+<h2>Fellowships/Awards/Grants received:</h2>
+
+1. The Australian Alumni Grants Scheme 2024<br>
+[AAGS website](https://chennai.consulate.gov.au/cnai/AAGS.html)
+
+2. The Australia India Research Students Fellowship 2023<br>
+[AIRS website](https://arch-india.org/australia-india-research-students-fellowship-program)
+
+3. India Connect @ NTU Research Fellowship 2023<br>
+[India Connect website](https://www.ntu.edu.sg/about-us/global/global-connect-fellowship)
+
+<h2> Service: </h2>
+1. Reviewer for ACM Computing Surveys
 
 I enjoy a lot of things beyond academic. Check them out: <a href="{{ "/beyond_acad" | absolute_url }}">Beyond Academics</a>.
