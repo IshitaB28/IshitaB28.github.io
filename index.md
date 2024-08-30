@@ -42,4 +42,4 @@ copy paste this link: https://drive.google.com/file/d/1VTU-JjL4AcN9pZ_G7o_OjzG3j
 <h2> Service: </h2>
 1. Reviewer for ACM Computing Surveys
 
-I enjoy a lot of things beyond academic. Check them out: <a href="{{ "/beyond_acad" | absolute_url }}">Beyond Academics</a>.
+I enjoy a lot of things beyond academics. Check them out: <a href="{{ "/beyond_acad" | absolute_url }}">Beyond Academics</a>.
