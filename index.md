@@ -21,11 +21,11 @@ Research Interests:
 
 Computer Vision, Quality Assessment of Images and Videos, Deep learning.
 
-Find my CV [here](https://drive.google.com/file/d/1VTU-JjL4AcN9pZ_G7o_OjzG3jtfPBkmj/view?usp=sharing)
-or
-copy paste this link: https://drive.google.com/file/d/1VTU-JjL4AcN9pZ_G7o_OjzG3jtfPBkmj/view?usp=sharing
-
 Check out more details at my <a href="{{ "/research" | absolute_url }}">Research Page</a>.
+
+Find my CV [here](https://drive.google.com/file/d/1VTU-JjL4AcN9pZ_G7o_OjzG3jtfPBkmj/view?usp=sharing) <br>
+or <br>
+copy paste this link: https://drive.google.com/file/d/1VTU-JjL4AcN9pZ_G7o_OjzG3jtfPBkmj/view
 
 
 <h2>Fellowships/Awards/Grants received:</h2>
