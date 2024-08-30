@@ -32,17 +32,6 @@ The Asia Pacific Software Engineering Conference 2021<br>
 [Paper](https://ieeexplore.ieee.org/document/9711990)<br>
 [Presentation](https://www.youtube.com/watch?v=NbDpLYdWueU)<br>
 
-<h2>Fellowships/Awards/Grants received:</h2>
-
-1. The Australian Alumni Grants Scheme 2024<br>
-[AAGS website](https://chennai.consulate.gov.au/cnai/AAGS.html)
-
-2. The Australia India Research Students Fellowship 2023<br>
-[AIRS website](https://arch-india.org/australia-india-research-students-fellowship-program)
-
-3. India Connect @ NTU Research Fellowship 2023<br>
-[India Connect website](https://www.ntu.edu.sg/about-us/global/global-connect-fellowship)
-
 <h2>Projects:</h2>
 
 1. Quality Assessment of Omnidirectional 360° Images<br>
