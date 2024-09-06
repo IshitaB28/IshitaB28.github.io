@@ -17,7 +17,7 @@ Hello, this is Ishita. Glad to see you here!
 
 I am currently a <b>Data Scientist</b> at <b>Netradyne</b>.
 
-I obtained my Master's (by research) in Artificial Intelligence from Indian Institute of Technology (IIT), Hyderabad in 2024 where I worked under the supervision of [Prof. Abhinav Kumar](https://people.iith.ac.in/abhinavkumar/) and [Prof. Sumohana Channappayya](https://people.iith.ac.in/sumohana/) on Stereo and Panoramic vision. Prior to obtaining MTech, I received my Bachelor's degree in Computer Science and Engineering from Heritage Institute of Technology, Kolkata in 2021. In my BTech, I was advised by [Prof. Subhajit Datta](http://dattas.net/) and Prof. Subhashis Majumder.
+I obtained my <b>Master's (by research) in Artificial Intelligence</b> from <b>Indian Institute of Technology (IIT), Hyderabad</b> in 2024 where I worked under the supervision of [Prof. Abhinav Kumar](https://people.iith.ac.in/abhinavkumar/) and [Prof. Sumohana Channappayya](https://people.iith.ac.in/sumohana/) on Stereo and Panoramic vision. Prior to obtaining MTech, I received my <b>Bachelor's degree in Computer Science and Engineering</b> from <b>Heritage Institute of Technology, Kolkata</b> in 2021. In my BTech, I was advised by [Prof. Subhajit Datta](http://dattas.net/) and Prof. Subhashis Majumder.
 
 Research Interests:
 
