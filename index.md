@@ -43,3 +43,8 @@ Find my CV [here](https://drive.google.com/file/d/1VTU-JjL4AcN9pZ_G7o_OjzG3jtfPB
 1. Reviewer for ACM Computing Surveys
 
 I enjoy a lot of things beyond academics. Check them out: <a href="{{ "/beyond_acad" | absolute_url }}">Beyond Academics</a>.
+
+Get in touch:
+
+1. Email: ishitabardhan10@gmail.com
+2. [LinkedIn](https://www.linkedin.com/in/ishita-bardhan-a90369169/)
