@@ -18,15 +18,19 @@ My Google Scholar Profile is [here](https://scholar.google.com/citations?user=lb
 International Conference on Signal Processing and Communications (SPCOM) 2024<br>
 [Paper](https://ieeexplore.ieee.org/document/10631608)<br>
 
-3. Are Distortion Maps the Golden Ticket to No-Reference Stereoscopic and Omnidirectional Image Quality Assessment?<br>
+3. Distortion Maps: An Effective Tool in No-Reference Stereoscopic and Omnidirectional Image Quality Assessment<br>
+<b>Ishita Bardhan</b>, Sumohana S. Channappayya, Abhinav Kumar<br>
+<b><u>[Submitted]</u></b> IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2025
+
+4. Omnidirectional Image Quality Assessment<br>
 <b>Ishita Bardhan</b>, Sumohana S. Channappayya, Abhinav Kumar<br>
 <b><u>[Manuscript under preparation]</u></b>
 
-4. What Drives the Variation of Developer Communication Characteristics over Time? An Empirical Study across Multiple Datasets<br>
+5. What Drives the Variation of Developer Communication Characteristics over Time? An Empirical Study across Multiple Datasets<br>
 Suchandra Chakraborty, Ankan Basu, Aritra Saha, <b>Ishita Bardhan</b>, Subhajit Datta, Subhashis Majumder<br>
 <b><u>[Submitted]</u></b> International Conference on Frontiers in Computing and Systems COMSYS-2024
 
-5. Degree Doesn't Matter: Identifying the Drivers of Interaction in Software Development Ecosystems<br>
+6. Degree Doesn't Matter: Identifying the Drivers of Interaction in Software Development Ecosystems<br>
 <b>Ishita Bardhan</b>, Subhajit Datta, Subhashis Majumder<br>
 The Asia Pacific Software Engineering Conference 2021<br>
 [Paper](https://ieeexplore.ieee.org/document/9711990)<br>
