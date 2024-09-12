@@ -46,13 +46,17 @@ Advisors: [Dr. Sumohana S. Channappayya](https://people.iith.ac.in/sumohana/), [
 Advisors: [Dr. Sumohana S. Channappayya](https://people.iith.ac.in/sumohana/), [Dr. Prem Prakash Jayaraman](https://www.swinburne.edu.au/research/our-research/access-our-research/find-a-researcher-or-supervisor/researcher-profile/?id=pjayaraman), [Dr. Abhinav Kumar](https://people.iith.ac.in/abhinavkumar/index.html)
 
 
-3. Quality of User Experience in Voice Assisstants<br>
+3. Visual Simultaneous Localization and Mapping<br>
+Advisor: [Dr. Lam Siew Kei](https://personal.ntu.edu.sg/assklam/)
+
+
+4. Quality of User Experience in Voice Assisstants<br>
 Advisor: [Dr. Abhinav Kumar](https://people.iith.ac.in/abhinavkumar/index.html)
 
 
-4. Vehicular Communications<br>
+5. Vehicular Communications<br>
 Advisors: [Dr. Abhinav Kumar](https://people.iith.ac.in/abhinavkumar/index.html), [Dr. Kotaro Kataoka](https://people.iith.ac.in/kotaro/)
 
 
-5. Empirical Software Engineering<br>
+6. Empirical Software Engineering<br>
 Advisors: [Dr. Subhajit Datta](http://dattas.net/), Dr. Subhashis Majumder
