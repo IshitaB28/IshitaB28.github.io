@@ -28,7 +28,7 @@ International Conference on Signal Processing and Communications (SPCOM) 2024<br
 
 5. What Drives the Variation of Developer Communication Characteristics over Time? An Empirical Study across Multiple Datasets<br>
 Suchandra Chakraborty, Ankan Basu, Aritra Saha, <b>Ishita Bardhan</b>, Subhajit Datta, Subhashis Majumder<br>
-<b><u>[Submitted]</u></b> International Conference on Frontiers in Computing and Systems COMSYS-2024
+<b><u>[Accepted]</u></b> International Conference on Frontiers in Computing and Systems COMSYS-2024
 
 6. Degree Doesn't Matter: Identifying the Drivers of Interaction in Software Development Ecosystems<br>
 <b>Ishita Bardhan</b>, Subhajit Datta, Subhashis Majumder<br>
