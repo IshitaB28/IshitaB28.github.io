@@ -11,7 +11,7 @@ title: Home
 <a href="{{ '/beyond_acad' | absolute_url }}">Beyond Academics</a>
 <br>
 
-<img src="/images/cafe_resized" alt="About Image">
+<img src="/images/cafe_resized.jpg" alt="About Image">
   
 Hello, this is Ishita. Glad to see you here!
 
