@@ -9,7 +9,7 @@ title: Research
 <br>
 
 <h1>Research</h1>
-My Google Scholar Profile is [here](https://scholar.google.com/citations?hl=en).
+My Google Scholar Profile is [here](https://scholar.google.com/citations?hl=en&user=oxrgT9YAAAAJ).
 
 <h2>Publications:</h2>
 
