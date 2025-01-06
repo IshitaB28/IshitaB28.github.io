@@ -25,7 +25,7 @@ Computer Vision, Quality Assessment of Images and Videos, Deep learning.
 
 Check out more details at my <a href="{{ "/research" | absolute_url }}">Research Page</a>.
 
-Find my CV [here](https://drive.google.com/file/d/1KM_zMYLtxuw6kN_zjER0yb5h_3htrcC9/view?usp=sharing).
+Find my CV [here](https://drive.google.com/file/d/1BntNThS0apKzM7BsZl9pgiJtNI76fd7D/view?usp=sharing).
 
 
 <h2>Fellowships/Grants received:</h2>
