@@ -18,9 +18,9 @@ My Google Scholar Profile is [here](https://scholar.google.com/citations?hl=en&u
 International Conference on Signal Processing and Communications (SPCOM) 2024<br>
 [Paper](https://ieeexplore.ieee.org/document/10631608)<br>
 
-3. Distortion maps: An effective tool in no-reference stereoscopic and omnidirectional image quality assessment.<br>
+3. Distortion Maps for No-Reference Image Quality Assessment: A Versatile Approach Validated on Stereoscopic and Omnidirectional Datasets<br>
 <b>Ishita Bardhan</b>, Sumohana S. Channappayya, Abhinav Kumar<br>
-<b><u>[Manuscript under preparation]</u></b>
+<b><u>[Submitted]</u></b> International Journal of Computer Vision
 
 4. Omnidirectional Image Quality Assessment<br>
 <b>Ishita Bardhan</b>, Sumohana S. Channappayya, Abhinav Kumar<br>
