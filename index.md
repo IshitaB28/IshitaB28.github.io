@@ -40,9 +40,10 @@ Find my CV [here](https://drive.google.com/file/d/1BntNThS0apKzM7BsZl9pgiJtNI76f
 [India Connect website](https://www.ntu.edu.sg/about-us/global/global-connect-fellowship)
 
 <h2> Service: </h2>
-1. Reviewer for ACM Computing Surveys
+1. Reviewer for the International Journal of Computer Vision [IJCV](https://link.springer.com/journal/11263)
+2. Reviewer for [ACM Computing Surveys](https://dl.acm.org/journal/csur)
 
-I enjoy a lot of things beyond academics. Check them out: <a href="{{ "/beyond_acad" | absolute_url }}">Beyond Academics</a>.
+I enjoy many things beyond academics. Check them out: <a href="{{ "/beyond_acad" | absolute_url }}">Beyond Academics</a>.
 
 Get in touch:
 
